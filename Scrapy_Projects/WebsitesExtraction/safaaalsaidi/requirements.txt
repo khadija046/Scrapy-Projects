@@ -1,0 +1,7 @@
+url = I need this website scraped https://www.europsy.eu/search-psychologist?family_name=&language=all&op=Search&form_build_id=form-J_7zH4RjLBj2PbFYHKWbd7Xm0WGeojrSP06RecVxiFc&form_id=psychologist_search_form
+
+fields to scrap:
+(name, gender, langauges, contact (tel, email))
+
+output:
+csv file
